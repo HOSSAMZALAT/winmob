@@ -1,0 +1,4 @@
+Database Info
+Server Name: SQL5101.site4now.net
+Database Name: db_a8eca7_winmobcrm
+User Name: db_a8eca7_winmobcrm_admin
